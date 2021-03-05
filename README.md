@@ -10,5 +10,5 @@ apt update && apt upgrade && pkg install wget php git openssl curl && git clone 
  ngrok
 رو بزنید برای پورت فراوردینگ
 
-Channel telegram: http://t.me/CodeHacks1
+Channel telegram: http://t.me/Code_Hacks
 
